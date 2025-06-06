@@ -18,7 +18,8 @@
 
 #show link: set text(fill: rgb(11.7%, 68.2%, 85.8%))
 
-#show heading: set text(weight: 500, size: 12pt, style: "italic")
+#show heading: smallcaps
+#show heading: set text(weight: 500, size: 12pt)
 #show heading: set block(above: 22pt, below: 12pt)
 
 #grid(
