@@ -30,7 +30,7 @@
     #link("mailto:" + data.email)[#data.email]
   ],
   [#for el in data.links [#link("https://" + el)[#el] \
-    ]],
+  ]],
 )
 
 = Skills

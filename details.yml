@@ -4,15 +4,15 @@ email: melinda@u.northwestern.edu
 links:
   - melindachang.com
   - linkedin.com/in/melindahchang
-  - codeberg.com/melindachang
+  - codeberg.org/melindachang
 
 skills:
-  - TypeScript, React, Svelte, SASS, Tailwind
-  - Rust, Axum
+  - TypeScript, React, Svelte
+  - Rust
+  - Common Lisp
   - C/C++
-  - Python
   - Java
-  - Haskell
+  - Python
   - UNIX, Shell, Git
 
 education:
@@ -20,7 +20,7 @@ education:
     expected: June 2028
     university: Northwestern University
     location: Evanston, IL
-    gpa: 3.73
+    gpa: 3.79
 
 related_experience:
   - title: Undergraduate Researcher
@@ -28,24 +28,29 @@ related_experience:
     years: 04/25---
     employer: University of California, Berkeley
     location: Berkeley, CA
-    description: "Advisor: Prof. Timothy Tangherlini. Exploring the affordances of language models in apprehending literary narratives with high social complexity."
+    description: 'Advisor: Prof. Timothy Tangherlini. Exploring the affordances of language models in parsing and structuring textual data, esp. literary narratives with high social complexity.'
   - title: Student Researcher
     group: Programming Systems Group
     years: 06/23---08/24
     employer: University of California, San Diego
     location: La Jolla, CA
-    description: "Advisor: Prof. Michael Coblenz. Qualitatively analyzed interviews with climatologists, other university scientists regarding software engineering practices. Identified opportunities for interventions. 2nd author of \"A Theory of Scientific Programming Efficacy\" (International Conference on Software Engineering, 2024)." 
+    description: 'Advisor: Prof. Michael Coblenz. Qualitatively analyzed interviews with climatologists, other university scientists regarding software engineering practices. Identified opportunities for interventions. 2nd author of "A Theory of Scientific Programming Efficacy" (International Conference on Software Engineering, 2024).'
 
 other_experience:
-  - title: Research Assistant
+  - title: Undergraduate Teaching Assistant
+    group: Dept. of Computer Science
+    years: 2025
+    employer: Northwestern University
+    location: Evanston, IL
+  - title: Student Researcher
     group: Laboratory for Computational Astrophysics
     years: 2022
     employer: University of California, San Diego
     location: La Jolla, CA
-  - title: Software Engineer Intern
-    years: 2022
-    employer: Hack Club
-    location: Shelburne, VT (Remote)
+  # - title: Software Engineer Intern
+  #   years: 2022
+  #   employer: Hack Club
+  #   location: Shelburne, VT (Remote)
 
 service:
   - title: Staff Writer
@@ -55,7 +60,7 @@ service:
   - title: Director of Technology
     organization: WildHacks
     years: 2024---
-    description: Leading software development at the biggest collegiate hackathon in Chicagoland.
+    description: Leading software development at Chicagoland's biggest hackathon.
   - title: Founder & Director
     organization: Hack the Wave
     years: 2023
